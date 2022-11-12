@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181524246656",
+    "project_id": "diana-7a2cc",
+    "storage_bucket": "diana-7a2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181524246656:android:19b3cf06bd1780a85bf665",
+        "android_client_info": {
+          "package_name": "com.root.diana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181524246656-stc2ugnkmoot5j046010l3roaehd5mk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGquD6liOvAQ3qqlf7l1qNO2_gJ9V8jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181524246656-stc2ugnkmoot5j046010l3roaehd5mk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
